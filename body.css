@@ -99,13 +99,13 @@ article div:last-child {
     -webkit-transform-style: preserve-3d;
 }
 
-article:hover div:first-child {
+article article:hover div:first-child {
     -webkit-transform: rotateX(180deg);
     -webkit-transform-origin: center;
     -webkit-transform-style: preserve-3d;
 }
 
-article:hover div:last-child {
+article article:hover div:last-child {
     -webkit-transform: rotateX(360deg);
     -webkit-transform-origin: center;
     -webkit-transform-style: preserve-3d;
