@@ -4,17 +4,11 @@
   </a>
 
 
+<h1>Flip Card Practice</h1>
 
-  <h2 align="center">TODO App</h2>
-
-  <p align="center">
- Flip Card Practice
-   
-  </p>
 </div>
 
 
-<h1>Flip Card Practice</h1>
 
 <h3> <a href="https://ehababdelmawla.github.io/flip-card">Live  Demo</a> </h3>
 
